@@ -8,14 +8,14 @@
 <h2>Hi there👋, Enjoy with the World of Open source contribution </h2>
 
 
-<p>Hello Coders👨‍💻 ,I am Arpan Chowdhury, a aspiring Web developer.🤖 Here is the project of the front-end Web Developement.<h2>Food_Website📲</h2>
-<p>Here is my Food website of the resturent names Mr. Chef(ESTD. 2003) .This website is responsive & it has been made using HTML, CSS, JS. Here are some key features of the website.
+<p>Hello Coders👨‍💻 ,I am Arpan Chowdhury, a aspiring Web developer.🤖 Here is the project of the front-end Web Developement.<h2>Food_Website😋</h2>
+<p>Here is my Food website of the resturent names Mr. Chef(ESTD. 2003)🍴 .This website is responsive & it has been made using HTML, CSS, JS. Here are some key features of the website.
   
-- A menu card of different cuisines such as Biritani , Chienese, Paneer Mania, Veg as well as South Indian. 
-- A scroll or jump to section to different sections of menu card
-- Every dish has it's own rating & prices
--  A very unique Add to cart system ( customers can also see the total billing there)
--  Address Saving Option
+- A menu card of different cuisines such as Biritani , Chienese, Paneer Mania, Veg as well as South Indian.🍕 
+- A scroll or jump to section to different sections of menu card🥗
+- Every dish has it's own rating & prices🥘
+-  A very unique Add to cart system ( customers can also see the total billing there) 🍟
+-  Address Saving Option🦑🦐
 </p>
 I welcome you all to contribute in this repository & make this a grand project. So, what are you waiting for??🤔Just jump into it after reading the guidelines📚</p>
 
